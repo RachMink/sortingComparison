@@ -1,0 +1,189 @@
+Orginal list of 10 numbers in almost order
+1 2 3 5 4 6 7 8 9 10 
+
+Comparisons in Bubble Sort: 90
+Swaps in Bubble Sort: 1
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Quick Sort: 42
+Swaps in Quick Sort: 49
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Heap Sort: 37
+Swaps in Heap Sort: 32
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Bubble had the most comparisons then quick, then heap
+Quick had the most swaps then heap, then bubble
+
+Orginal list of 10 numbers in random order
+9 5 10 8 4 3 6 1 7 2 
+
+Comparisons in Bubble Sort: 90
+Swaps in Bubble Sort: 33
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Quick Sort: 25
+Swaps in Quick Sort: 14
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Heap Sort: 31
+Swaps in Heap Sort: 26
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Bubble had the most comparisons then heap, then quick
+Bubble had the most swaps then heap, then quick
+
+Orginal list of 10 numbers in reverse order
+10 9 8 7 6 5 4 3 2 1 
+
+Comparisons in Bubble Sort: 90
+Swaps in Bubble Sort: 45
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Quick Sort: 45
+Swaps in Quick Sort: 29
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Comparisons in Heap Sort: 27
+Swaps in Heap Sort: 22
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 
+
+Bubble had the most comparisons then quick, then heap
+Bubble had the most swaps then quick, then heap
+
+Orginal list of 50 numbers in almost order
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 24 26 27 28 29 30 32 31 33 34 36 35 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Comparisons in Bubble Sort: 2450
+Swaps in Bubble Sort: 3
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Comparisons in Quick Sort: 1138
+Swaps in Quick Sort: 1181
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Comparisons in Heap Sort: 295
+Swaps in Heap Sort: 270
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Bubble had the most comparisons then quick, then heap
+Quick had the most swaps then heap, then bubble
+
+Orginal list of 50 numbers in random order
+11 35 37 38 39 18 19 20 1 4 2 3 45 46 47 5 6 7 8 9 10 21 25 13 14 15 16 17 24 27 28 32 31 33 42 22 23 12 36 26 43 44 34 40 41 47 48 50 29 30 
+
+Comparisons in Bubble Sort: 2450
+Swaps in Bubble Sort: 379
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Comparisons in Quick Sort: 269
+Swaps in Quick Sort: 218
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Comparisons in Heap Sort: 273
+Swaps in Heap Sort: 248
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 47 48 50 
+
+Bubble had the most comparisons then heap, then quick
+Bubble had the most swaps then heap, then quick
+
+Orginal list of 50 numbers in reverse order
+50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+Comparisons in Bubble Sort: 2450
+Swaps in Bubble Sort: 1225
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Comparisons in Quick Sort: 1225
+Swaps in Quick Sort: 649
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Comparisons in Heap Sort: 233
+Swaps in Heap Sort: 208
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+Bubble had the most comparisons then quick, then heap
+Bubble had the most swaps then quick, then heap
+
+Orginal list of 100 numbers in almost order
+1 2 3 4 5 6 7 8 9 10 21 22 23 24 25 26 27 28 29 30 51 52 53 54 55 56 57 58 59 60 31 32 33 34 35 36 37 38 39 40 11 12 13 14 15 16 17 18 19 20 41 42 43 44 45 46 47 48 49 50 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Bubble Sort: 9900
+Swaps in Bubble Sort: 500
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Quick Sort: 3990
+Swaps in Quick Sort: 4046
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Heap Sort: 665
+Swaps in Heap Sort: 615
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Bubble had the most comparisons then quick, then heap
+Quick had the most swaps then heap, then bubble
+
+Orginal list of 100 numbers in random order
+2 99 100 85 89 13 14 15 16 1 11 12 17 18 19 20 86 87 88 98 21 25 26 27 28 29 30 9 10 64 65 66 31 76 77 38 39 40 35 36 78 79 3 4 8 41 42 43 44 45 22 47 48 49 50 93 94 51 52 56 57 58 59 60 95 96 74 75 34 61 62 63 67 68 69 70 23 24 46 71 72 73 80 32 33 37 5 6 7 97 81 82 83 84 90 53 54 55 91 92 
+
+Comparisons in Bubble Sort: 9900
+Swaps in Bubble Sort: 1778
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Quick Sort: 1009
+Swaps in Quick Sort: 605
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Heap Sort: 627
+Swaps in Heap Sort: 577
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Bubble had the most comparisons then quick, then heap
+Bubble had the most swaps then quick, then heap
+
+Orginal list of 100 numbers in reverse order
+100 99 98 97 96 95 94 93 92 91 90 89 88 87 86 85 84 83 82 81 80 79 78 77 76 75 74 73 72 71 70 69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+Comparisons in Bubble Sort: 9900
+Swaps in Bubble Sort: 4950
+Array after Bubble sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Quick Sort: 4950
+Swaps in Quick Sort: 2549
+Array after Quick sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Comparisons in Heap Sort: 567
+Swaps in Heap Sort: 517
+Array after Heap sort: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 
+
+Bubble had the most comparisons then quick, then heap
+Bubble had the most swaps then quick, then heap
+
